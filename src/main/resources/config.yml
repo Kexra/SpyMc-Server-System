@@ -1,0 +1,10 @@
+#private system owned by asna
+
+database: spymc
+username: spyasna62
+password: asnasavedmyspy124
+port: 3306
+hostname: 45.152.161.143
+
+#ALLGEMEIN INFOS
+WARTUNG: true

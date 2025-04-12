@@ -1,0 +1,44 @@
+name: SpyMC-CB
+version: '${project.version}'
+main: de.asna.spymccb.Main
+api-version: '1.20'
+authors: [asna]
+commands:
+  coins:
+    aliases: [money, geld]
+  admincoins:
+  pay:
+  job:
+    aliases: [jobs, arbeit]
+  setspawn:
+  spawn:
+  fly:
+  flyspeed:
+  discord:
+    aliases: [dc]
+  ping:
+  werkbank:
+    aliases: [craft]
+  enderchest:
+    aliases: [ec]
+  gamemode:
+    aliases: [gm]
+  food:
+  heal:
+  repair:
+  tp:
+    aliases: [teleport]
+  tphere:
+    aliases: [teleporthere]
+  tpa:
+    aliases: [tpaaccept]
+  msg:
+    aliases: [tell, whisper]
+  speed:
+  skull:
+  hilfe:
+  clearchat:
+    aliases: [cc]
+  rename:
+  randomtp:
+    aliases: [rtp]
